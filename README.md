@@ -14,6 +14,7 @@ The codes include brief processes for
 The codes DOES NOT include
 1) Full dataset used for this study
 2) News contents to be updated after June 2019
+3) Python code (just a few lines of commands) for moral foundation detection
 
 The author welcomes
 1) Co-authors in enhancing the theoretical foundations
