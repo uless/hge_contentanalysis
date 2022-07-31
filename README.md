@@ -1,4 +1,4 @@
-# hge_contentanalysis
+# Read Me
 
 
 The codes include detailed processes for
@@ -10,3 +10,12 @@ The codes include detailed processes for
 The codes include brief processes for
 1) Visualization of sentiment shifts
 2) Visualization of moral foundation shifts
+
+The codes DOES NOT include
+1) Full dataset used for this study
+2) News contents to be updated after June 2019
+
+The author welcomes
+1) Co-authors in enhancing the theoretical foundations
+2) Co-authors in manual validation of these descriptive results
+  2.1) Acknowledgement that this work is based on findings from Artificial Un-intellegence
