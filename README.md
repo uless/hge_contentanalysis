@@ -18,4 +18,5 @@ The codes DOES NOT include
 The author welcomes
 1) Co-authors in enhancing the theoretical foundations
 2) Co-authors in manual validation of these descriptive results
-      2.1 Acknowledgement that this work is based on findings from Artificial Un-intellegence
+3) Acknowledgement that this work is based on findings from Artificial Un-intellegence, and therefore
+4) Instructions on other state-of-art automatic content analyses approaches
