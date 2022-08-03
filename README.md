@@ -11,7 +11,7 @@ The codes include brief processes for
 1) Visualization of sentiment shifts
 2) Visualization of moral foundation shifts
 
-The codes DOES NOT include
+The codes DO NOT include
 1) Full dataset used for this study
 2) News contents to be updated after June 2019
 3) Python code (just a few lines of commands) for moral foundation detection
